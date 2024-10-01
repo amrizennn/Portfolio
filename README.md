@@ -1,0 +1,1 @@
+Ini adalah Web Portfolio sederhana milik saya yang saya buat untuk memperkenalkan diri saya kepada adik-adik kelas saya dan untuk memotivasi adik-adik kelas saya agar lebih semangat lagi dalam belajar.
